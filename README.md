@@ -1,12 +1,12 @@
-##Layout
+## Layout
 
 ![Image interface](https://github.com/carolldinis/ST10459134-history/blob/main/screen/screenapp.png?raw=true)
 
 ### YouTube link
 
-[Watch the project video on YouTube]([https://youtube.com/@caroldiniz6019?si=B97ybs57v19S-Thk](https://youtube.com/shorts/tQ9NW87-r88?si=9lt8qXIYow7ni4fV))
+- Watch the project video on YouTube (https://youtube.com/@caroldiniz6019?si=B97ybs57v19S-Thk](https://youtube.com/shorts/tQ9NW87-r88?si=9lt8qXIYow7ni4fV)
 
-#Author
+# Author
 
 Carol Dinis
 Student number - ST10459134
