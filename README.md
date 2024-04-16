@@ -4,7 +4,7 @@
 
 ### YouTube link
 
-[Watch the project video on YouTube](https://youtube.com/@caroldiniz6019?si=B97ybs57v19S-Thk)
+[Watch the project video on YouTube]([https://youtube.com/@caroldiniz6019?si=B97ybs57v19S-Thk](https://youtube.com/shorts/tQ9NW87-r88?si=9lt8qXIYow7ni4fV))
 
 #Author
 
